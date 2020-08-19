@@ -3,11 +3,11 @@
   <title>Bubuy的博客</title>
   
   <subtitle>let bass kick</subtitle>
-  <link href="http://bubuy.top/atom.xml" rel="self"/>
+  <link href="https://bubuy.top/atom.xml" rel="self"/>
   
-  <link href="http://bubuy.top/"/>
+  <link href="https://bubuy.top/"/>
   <updated>2020-08-08T05:02:44.775Z</updated>
-  <id>http://bubuy.top/</id>
+  <id>https://bubuy.top/</id>
   
   <author>
     <name>Bubuy</name>
@@ -18,8 +18,8 @@
   
   <entry>
     <title>Hello World</title>
-    <link href="http://bubuy.top/2020/08/08/hello-world/"/>
-    <id>http://bubuy.top/2020/08/08/hello-world/</id>
+    <link href="https://bubuy.top/2020/08/08/hello-world/"/>
+    <id>https://bubuy.top/2020/08/08/hello-world/</id>
     <published>2020-08-08T05:02:44.775Z</published>
     <updated>2020-08-08T05:02:44.775Z</updated>
     
@@ -38,8 +38,8 @@
   
   <entry>
     <title>从零开始的免费Hexo博客搭建教程</title>
-    <link href="http://bubuy.top/2020/08/08/%E4%BB%8E%E9%9B%B6%E5%BC%80%E5%A7%8B%E7%9A%84%E5%85%8D%E8%B4%B9Hexo%E5%8D%9A%E5%AE%A2%E6%90%AD%E5%BB%BA%E6%95%99%E7%A8%8B/"/>
-    <id>http://bubuy.top/2020/08/08/%E4%BB%8E%E9%9B%B6%E5%BC%80%E5%A7%8B%E7%9A%84%E5%85%8D%E8%B4%B9Hexo%E5%8D%9A%E5%AE%A2%E6%90%AD%E5%BB%BA%E6%95%99%E7%A8%8B/</id>
+    <link href="https://bubuy.top/2020/08/08/%E4%BB%8E%E9%9B%B6%E5%BC%80%E5%A7%8B%E7%9A%84%E5%85%8D%E8%B4%B9Hexo%E5%8D%9A%E5%AE%A2%E6%90%AD%E5%BB%BA%E6%95%99%E7%A8%8B/"/>
+    <id>https://bubuy.top/2020/08/08/%E4%BB%8E%E9%9B%B6%E5%BC%80%E5%A7%8B%E7%9A%84%E5%85%8D%E8%B4%B9Hexo%E5%8D%9A%E5%AE%A2%E6%90%AD%E5%BB%BA%E6%95%99%E7%A8%8B/</id>
     <published>2020-08-08T03:45:14.000Z</published>
     <updated>2020-08-08T11:34:13.348Z</updated>
     
@@ -54,9 +54,9 @@
     
     
     
-    <category term="科技" scheme="http://bubuy.top/tags/%E7%A7%91%E6%8A%80/"/>
+    <category term="科技" scheme="https://bubuy.top/tags/%E7%A7%91%E6%8A%80/"/>
     
-    <category term="网站" scheme="http://bubuy.top/tags/%E7%BD%91%E7%AB%99/"/>
+    <category term="网站" scheme="https://bubuy.top/tags/%E7%BD%91%E7%AB%99/"/>
     
   </entry>
   
