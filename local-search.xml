@@ -4,6 +4,19 @@
   
   
   <entry>
+    <title>洛谷部分题目题解合集</title>
+    <link href="/2020/08/30/%E6%B4%9B%E8%B0%B7%E9%83%A8%E5%88%86%E9%A2%98%E7%9B%AE%E9%A2%98%E8%A7%A3%E5%90%88%E9%9B%86/"/>
+    <url>/2020/08/30/%E6%B4%9B%E8%B0%B7%E9%83%A8%E5%88%86%E9%A2%98%E7%9B%AE%E9%A2%98%E8%A7%A3%E5%90%88%E9%9B%86/</url>
+    
+    <content type="html"><![CDATA[<h2 id="题解仅供参考-请勿抄袭"><a href="#题解仅供参考-请勿抄袭" class="headerlink" title="题解仅供参考,请勿抄袭"></a><strong>题解仅供参考,请勿抄袭</strong></h2><h2 id="入门1-顺序结构"><a href="#入门1-顺序结构" class="headerlink" title="[入门1]顺序结构"></a>[入门1]顺序结构</h2><h3 id="P5703-【深基2-例5】苹果采购"><a href="#P5703-【深基2-例5】苹果采购" class="headerlink" title="P5703 【深基2.例5】苹果采购"></a><a href="https://www.luogu.com.cn/problem/P5703">P5703 【深基2.例5】苹果采购</a></h3><pre><code class="hljs cpp"><span class="hljs-meta">#<span class="hljs-meta-keyword">include</span><span class="hljs-meta-string">&lt;iostream&gt; //就一乘法,没啥好说的</span></span><span class="hljs-keyword">using</span> <span class="hljs-keyword">namespace</span> <span class="hljs-built_in">std</span>;<span class="hljs-function"><span class="hljs-keyword">int</span> <span class="hljs-title">main</span><span class="hljs-params">()</span> </span>&#123;    <span class="hljs-keyword">int</span> a, b;    <span class="hljs-built_in">cin</span> &gt;&gt; a &gt;&gt; b;    <span class="hljs-built_in">cout</span> &lt;&lt; a * b;&#125;</code></pre>]]></content>
+    
+    
+    
+  </entry>
+  
+  
+  
+  <entry>
     <title>Hello World</title>
     <link href="/2020/08/08/hello-world/"/>
     <url>/2020/08/08/hello-world/</url>
